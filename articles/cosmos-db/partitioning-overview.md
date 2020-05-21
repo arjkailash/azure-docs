@@ -77,3 +77,5 @@ Some things to consider when selecting the *item ID* as the partition key includ
 * Learn about [partitioning and horizontal scaling in Azure Cosmos DB](partition-data.md).
 * Learn about [provisioned throughput in Azure Cosmos DB](request-units.md).
 * Learn about [global distribution in Azure Cosmos DB](distribute-data-globally.md).
+
+Quick video to summarize above - https://youtu.be/KlXhee6R0rE?list=PLLasX02E8BPDgjhYxhKRrEGjPLNrORv_g 
